@@ -1,3 +1,15 @@
 body {
-    background-color: grey
+    background-color: 
+}
+nav {
+    display: flex;
+    gap: 50px;
+    font-size: 30px;
+    justify-content: center;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
 }
