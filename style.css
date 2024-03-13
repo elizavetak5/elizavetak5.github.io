@@ -36,3 +36,7 @@ p {
 body {
     padding: 0 150px;
 }
+.iframe {
+    display: flex;
+    justify-content: center;
+}
